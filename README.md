@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-<img src="D:\android app\project\profile\image"  width="400" height="800">
+<img src="D:\android app\project\profile\image.jpg"  width="400" height="800">
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
